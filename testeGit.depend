@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1391643018 source:c:\users\aeros\gitprojectchrome\testegit\mat.cpp
+	"mat.h"
+
+1392245442 c:\users\aeros\gitprojectchrome\testegit\mat.h
+	<iostream>
+	<math.h>
+
+1391643022 source:c:\users\aeros\gitprojectchrome\testegit\main.cpp
+	"mat.h"
+
